@@ -1810,10 +1810,6 @@ a {
     }
 }
 
-.footer .container .social {
-    margin-bottom: 15px;
-}
-
 .footer .container .social h2 {
     color: white;
     font-size: 50px;
@@ -1845,9 +1841,11 @@ a {
     background-color: red;
 }
 
-.footer .container .social p{
+.footer .container .social p {
     line-height: 2;
     color: #b9b9b9;
+    margin-top: 15px;
+
 }
 
 .footer .box .links li {
