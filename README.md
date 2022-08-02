@@ -1,5 +1,5 @@
 
-# Kasper-Template
+# Elzero-Template
 
 This is a project for creating a [Elzero Template] using HTML and CSS.
 I created it to improve my coding skills by building realistic projects.
