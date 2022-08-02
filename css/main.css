@@ -1810,6 +1810,10 @@ a {
     }
 }
 
+.footer .container .social {
+    margin-bottom: 15px;
+}
+
 .footer .container .social h2 {
     color: white;
     font-size: 50px;
